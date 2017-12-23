@@ -9,6 +9,7 @@ public class Demo {
     public Demo(int x){
         this.x=x;
     }
+
     public int getX(){
         return this.x;
     }
